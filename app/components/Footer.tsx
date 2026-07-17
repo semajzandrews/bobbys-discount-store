@@ -73,7 +73,7 @@ export default function Footer() {
           className="group inline-flex items-center gap-2 text-[12px] text-paper/55 transition-colors hover:text-tan"
         >
           <span className="h-1 w-1 rounded-full bg-tan" />
-          Built by
+          built
           <span className="font-display font-semibold text-paper/80 group-hover:text-tan">
             bysemaj.com
           </span>
